@@ -1,2 +1,0 @@
-REDAgent.exe
-iClient.exe
